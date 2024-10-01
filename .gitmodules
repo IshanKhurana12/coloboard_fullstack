@@ -1,0 +1,6 @@
+[submodule "colaboardbackend"]
+	path = colaboardbackend
+	url = https://github.com/IshanKhurana12/colaboardbackend
+[submodule "colaboard-frontend"]
+	path = colaboard-frontend
+	url = https://github.com/IshanKhurana12/colaboard-frontend
